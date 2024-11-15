@@ -34,7 +34,7 @@
   }
   
   .play-button, .about-button {
-    background-color: #4CAF50;
+    background-color: #d78c31;
     color: white;
     padding: 15px 32px;
     margin: 10px;
@@ -48,4 +48,3 @@
   .play-button:hover, .about-button:hover {
     background-color: #45a049;
   }
-  
